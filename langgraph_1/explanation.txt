@@ -1,0 +1,4 @@
+This will bascially be a sequential workflow there is no complex control flow in this agent. THis will just be a starting point for 
+the langgraph , to get a better idea of the syntax of langgraph 
+
+ 
